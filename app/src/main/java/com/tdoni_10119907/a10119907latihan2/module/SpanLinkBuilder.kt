@@ -7,6 +7,11 @@ import android.text.style.ClickableSpan
 import android.text.style.ForegroundColorSpan
 import android.view.View
 
+// 4/30/2022
+// 10119907
+// T DONI INDRAPRASTA PRADANA
+// IF10K
+
 class SpanLinkBuilder {
     private var colorId: Int = 0
     private var endLinkIndex: Int = 0

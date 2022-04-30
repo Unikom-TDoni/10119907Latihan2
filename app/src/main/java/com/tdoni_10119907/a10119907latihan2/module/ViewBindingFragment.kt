@@ -7,6 +7,11 @@ import android.view.LayoutInflater
 import androidx.fragment.app.Fragment
 import androidx.viewbinding.ViewBinding
 
+// 4/30/2022
+// 10119907
+// T DONI INDRAPRASTA PRADANA
+// IF10K
+
 abstract class ViewBindingFragment<out T : ViewBinding> : Fragment() {
     private var _binding: ViewBinding? = null
 
